@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "expenses-management-app",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
