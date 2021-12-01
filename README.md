@@ -21,4 +21,5 @@ An Ionic application for managing property expenses. Centralize all your monthly
 - [ ] Enter multiple properties.
 - [ ] Connect expenses to providers & add expenses automatically.
 - [ ] Pay expenses through the application.
+- [ ] Customize colors & select icons for expense cards.
 
